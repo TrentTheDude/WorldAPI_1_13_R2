@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldAPI_1_13_R2:jar">
+    <output-path>$PROJECT_DIR$/../../Libs</output-path>
+    <root id="archive" name="WorldAPI_1_13_R2.jar">
+      <element id="module-output" name="WorldAPI_1_13_R2" />
+    </root>
+  </artifact>
+</component>
